@@ -1,0 +1,10 @@
+first see if you have nodejs and npm installed
+install node.js from website
+check both versions of npm and nodejs for successfull download
+then in terminal of campus bites folder in vs type 'npm install' this will install all the dependencies
+go to mongodb and create a new project in the project create a new cluster after creating a cluster tap on connect to cluster and there will be a 'npm install mongodb; do that the below that there will be a link copy and paste it in .env file
+
+do 'npm run menu' to read csv file this is a onetime process
+
+'npm run dev' to run ther server
+server will be on http://localhost:8080
